@@ -1,0 +1,40 @@
+2020-08-01 22:55:47,838 INFO [main] Should be By.xpath: //span[@class='button__label']
+2020-08-01 22:55:48,337 INFO [main] Element found
+2020-08-01 22:55:48,742 INFO [main] Should be By.xpath: //input[@id='passp-field-login']
+2020-08-01 22:55:49,924 INFO [main] Element found
+2020-08-01 22:55:50,056 INFO [main] Should be By.xpath: //input[@id='passp-field-login']
+2020-08-01 22:55:50,196 INFO [main] Element found
+2020-08-01 22:55:50,272 INFO [main] Should be By.xpath: //input[@id='passp-field-passwd']
+2020-08-01 22:55:50,561 INFO [main] Element found
+2020-08-01 22:55:50,744 INFO [main] Should be By.xpath: //input[@id='passp-field-passwd']
+2020-08-01 22:55:50,760 INFO [main] Element found
+2020-08-01 22:56:00,895 INFO [main] Should be By.xpath: //div[contains(@class,'user__userpic user__userpic_size_L')]
+2020-08-01 22:56:00,955 INFO [main] Element found
+2020-08-01 22:56:01,009 INFO [main] Should be By.xpath: //div[@class='multi-auth__user-name typo']
+2020-08-01 22:56:01,174 INFO [main] Element found
+2020-08-02 09:11:05,592 INFO [main] Should be By.xpath: //span[@class='button__label']
+2020-08-02 09:11:07,731 INFO [main] Element found
+2020-08-02 09:11:08,282 INFO [main] Should be By.xpath: //input[@id='passp-field-login']
+2020-08-02 09:11:09,323 INFO [main] Element found
+2020-08-02 09:11:09,442 INFO [main] Should be By.xpath: //input[@id='passp-field-login']
+2020-08-02 09:11:09,472 INFO [main] Element found
+2020-08-02 09:11:09,540 INFO [main] Should be By.xpath: //input[@id='passp-field-passwd']
+2020-08-02 09:11:09,764 INFO [main] Element found
+2020-08-02 09:11:10,035 INFO [main] Should be By.xpath: //input[@id='passp-field-passwd']
+2020-08-02 09:11:10,071 INFO [main] Element found
+2020-08-02 09:11:10,185 INFO [main] Should be By.xpath: //div[contains(@class,'user__userpic user__userpic_size_L')]
+2020-08-02 09:11:11,847 INFO [main] Element found
+2020-08-02 09:11:53,257 INFO [main] Should be By.xpath: //span[@class='button__label']
+2020-08-02 09:11:55,315 INFO [main] Element found
+2020-08-02 09:11:55,812 INFO [main] Should be By.xpath: //input[@id='passp-field-login']
+2020-08-02 09:11:56,889 INFO [main] Element found
+2020-08-02 09:11:57,020 INFO [main] Should be By.xpath: //input[@id='passp-field-login']
+2020-08-02 09:11:57,032 INFO [main] Element found
+2020-08-02 09:11:57,091 INFO [main] Should be By.xpath: //input[@id='passp-field-passwd']
+2020-08-02 09:11:57,337 INFO [main] Element found
+2020-08-02 09:11:57,520 INFO [main] Should be By.xpath: //input[@id='passp-field-passwd']
+2020-08-02 09:11:57,537 INFO [main] Element found
+2020-08-02 09:12:02,651 INFO [main] Should be By.xpath: //div[contains(@class,'user__userpic user__userpic_size_L')]
+2020-08-02 09:12:02,836 INFO [main] Element found
+2020-08-02 09:12:02,889 INFO [main] Should be By.xpath: //div[@class='multi-auth__user-name typo']
+2020-08-02 09:12:02,994 INFO [main] Element found
