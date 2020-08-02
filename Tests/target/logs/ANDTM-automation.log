@@ -1,0 +1,240 @@
+2020-08-01 17:44:56,034 INFO [main] Should be By.xpath: //input[@placeholder='Логин']
+2020-08-01 17:44:56,062 INFO [main] Element found
+2020-08-01 17:44:56,246 INFO [main] Should be By.xpath: //input[@placeholder='Пароль']
+2020-08-01 17:44:56,305 INFO [main] Element found
+2020-08-01 17:44:56,442 INFO [main] Should be By.xpath: //input[@placeholder='Логин']
+2020-08-01 17:44:56,459 INFO [main] Element found
+2020-08-01 17:44:56,574 INFO [main] Should be By.xpath: //input[@placeholder='Пароль']
+2020-08-01 17:44:56,584 INFO [main] Element found
+2020-08-01 17:44:56,708 INFO [main] Should be By.id: login-button
+2020-08-01 17:44:56,741 INFO [main] Element found
+2020-08-01 17:44:57,093 INFO [main] Should be By.xpath: //div[@class='alert alert-error']
+2020-08-01 17:44:57,113 INFO [main] Element found
+2020-08-01 17:47:00,705 INFO [main] Should be By.xpath: //input[@placeholder='Логин']
+2020-08-01 17:47:00,742 INFO [main] Element found
+2020-08-01 17:47:00,856 INFO [main] Should be By.xpath: //input[@placeholder='Пароль']
+2020-08-01 17:47:00,909 INFO [main] Element found
+2020-08-01 17:47:00,969 INFO [main] Should be By.xpath: //input[@placeholder='Логин']
+2020-08-01 17:47:00,998 INFO [main] Element found
+2020-08-01 17:47:01,112 INFO [main] Should be By.xpath: //input[@placeholder='Пароль']
+2020-08-01 17:47:01,129 INFO [main] Element found
+2020-08-01 17:47:01,198 INFO [main] Should be By.id: login-button
+2020-08-01 17:47:01,219 INFO [main] Element found
+2020-08-01 17:47:01,660 INFO [main] Should be By.xpath: //div[@class='alert alert-error']
+2020-08-01 17:47:01,686 INFO [main] Element found
+2020-08-01 17:51:49,510 INFO [main] Should be By.xpath: //input[@placeholder='Логин']
+2020-08-01 17:51:49,537 INFO [main] Element found
+2020-08-01 17:51:49,610 INFO [main] Should be By.xpath: //input[@placeholder='Пароль']
+2020-08-01 17:51:49,677 INFO [main] Element found
+2020-08-01 17:51:49,746 INFO [main] Should be By.xpath: //input[@placeholder='Логин']
+2020-08-01 17:51:49,761 INFO [main] Element found
+2020-08-01 17:51:49,863 INFO [main] Should be By.xpath: //input[@placeholder='Пароль']
+2020-08-01 17:51:49,876 INFO [main] Element found
+2020-08-01 17:51:49,946 INFO [main] Should be By.id: login-button
+2020-08-01 17:51:49,969 INFO [main] Element found
+2020-08-01 17:51:50,288 INFO [main] Should be By.xpath: //div[@class='alert alert-error']
+2020-08-01 17:51:50,313 INFO [main] Element found
+2020-08-01 17:52:47,151 INFO [main] Should be By.xpath: //input[@placeholder='Логин']
+2020-08-01 17:52:47,203 INFO [main] Element found
+2020-08-01 17:52:47,284 INFO [main] Should be By.xpath: //input[@placeholder='Пароль']
+2020-08-01 17:52:47,348 INFO [main] Element found
+2020-08-01 17:52:47,400 INFO [main] Should be By.xpath: //input[@placeholder='Логин']
+2020-08-01 17:52:47,418 INFO [main] Element found
+2020-08-01 17:52:47,567 INFO [main] Should be By.xpath: //input[@placeholder='Пароль']
+2020-08-01 17:52:47,610 INFO [main] Element found
+2020-08-01 17:52:47,691 INFO [main] Should be By.id: login-button
+2020-08-01 17:52:47,712 INFO [main] Element found
+2020-08-01 17:52:48,159 INFO [main] Should be By.xpath: //div[@class='alert alert-error']
+2020-08-01 17:52:48,204 INFO [main] Element found
+2020-08-01 17:52:48,515 INFO [main] Should be By.xpath: //input[@placeholder='Логин']
+2020-08-01 17:52:48,532 INFO [main] Element found
+2020-08-01 17:52:48,589 INFO [main] Should be By.xpath: //input[@placeholder='Пароль']
+2020-08-01 17:52:48,614 INFO [main] Element found
+2020-08-01 17:52:48,674 INFO [main] Should be By.xpath: //input[@placeholder='Логин']
+2020-08-01 17:52:48,691 INFO [main] Element found
+2020-08-01 17:52:48,761 INFO [main] Should be By.xpath: //input[@placeholder='Пароль']
+2020-08-01 17:52:48,776 INFO [main] Element found
+2020-08-01 17:52:48,826 INFO [main] Should be By.id: login-button
+2020-08-01 17:52:48,835 INFO [main] Element found
+2020-08-01 17:52:49,164 INFO [main] Should be By.xpath: //div[@class='alert alert-error']
+2020-08-01 17:52:49,178 INFO [main] Element found
+2020-08-01 17:52:49,502 INFO [main] Should be By.xpath: //input[@placeholder='Логин']
+2020-08-01 17:52:49,550 INFO [main] Element found
+2020-08-01 17:52:49,613 INFO [main] Should be By.xpath: //input[@placeholder='Пароль']
+2020-08-01 17:52:49,627 INFO [main] Element found
+2020-08-01 17:52:49,693 INFO [main] Should be By.xpath: //input[@placeholder='Логин']
+2020-08-01 17:52:49,704 INFO [main] Element found
+2020-08-01 17:52:49,765 INFO [main] Should be By.xpath: //input[@placeholder='Пароль']
+2020-08-01 17:52:49,779 INFO [main] Element found
+2020-08-01 17:52:49,852 INFO [main] Should be By.id: login-button
+2020-08-01 17:52:49,867 INFO [main] Element found
+2020-08-01 17:52:50,352 INFO [main] Should be By.xpath: //input[@id='otp-code']
+2020-08-01 17:52:50,374 INFO [main] Element found
+2020-08-01 17:54:48,391 INFO [main] Should be By.xpath: //input[@placeholder='Логин']
+2020-08-01 17:54:48,439 INFO [main] Element found
+2020-08-01 17:54:48,547 INFO [main] Should be By.xpath: //input[@placeholder='Пароль']
+2020-08-01 17:54:48,611 INFO [main] Element found
+2020-08-01 17:54:48,728 INFO [main] Should be By.xpath: //input[@placeholder='Логин']
+2020-08-01 17:54:48,745 INFO [main] Element found
+2020-08-01 17:54:48,882 INFO [main] Should be By.xpath: //input[@placeholder='Пароль']
+2020-08-01 17:54:48,895 INFO [main] Element found
+2020-08-01 17:54:48,991 INFO [main] Should be By.id: login-button
+2020-08-01 17:54:49,009 INFO [main] Element found
+2020-08-01 17:54:49,353 INFO [main] Should be By.xpath: //div[@class='alert alert-error']
+2020-08-01 17:54:49,389 INFO [main] Element found
+2020-08-01 18:01:02,101 INFO [main] Should be By.xpath: //input[@placeholder='Логин']
+2020-08-01 18:01:02,159 INFO [main] Element found
+2020-08-01 18:01:02,265 INFO [main] Should be By.xpath: //input[@placeholder='Пароль']
+2020-08-01 18:01:02,293 INFO [main] Element found
+2020-08-01 18:01:02,354 INFO [main] Should be By.xpath: //input[@placeholder='Логин']
+2020-08-01 18:01:02,370 INFO [main] Element found
+2020-08-01 18:01:02,482 INFO [main] Should be By.xpath: //input[@placeholder='Пароль']
+2020-08-01 18:01:02,495 INFO [main] Element found
+2020-08-01 18:01:02,569 INFO [main] Should be By.id: login-button
+2020-08-01 18:01:02,589 INFO [main] Element found
+2020-08-01 18:01:02,939 INFO [main] Should be By.xpath: //div[@class='alert alert-error']
+2020-08-01 18:01:02,965 INFO [main] Element found
+2020-08-01 18:01:36,207 INFO [main] Should be By.xpath: //input[@placeholder='Логин']
+2020-08-01 18:01:36,242 INFO [main] Element found
+2020-08-01 18:01:36,474 INFO [main] Should be By.xpath: //input[@placeholder='Пароль']
+2020-08-01 18:01:36,500 INFO [main] Element found
+2020-08-01 18:01:36,587 INFO [main] Should be By.xpath: //input[@placeholder='Логин']
+2020-08-01 18:01:36,614 INFO [main] Element found
+2020-08-01 18:01:36,701 INFO [main] Should be By.xpath: //input[@placeholder='Пароль']
+2020-08-01 18:01:36,716 INFO [main] Element found
+2020-08-01 18:01:36,819 INFO [main] Should be By.id: login-button
+2020-08-01 18:01:36,844 INFO [main] Element found
+2020-08-01 18:01:37,208 INFO [main] Should be By.xpath: //div[@class='alert alert-error']
+2020-08-01 18:01:37,232 INFO [main] Element found
+2020-08-01 18:01:37,675 INFO [main] Should be By.xpath: //input[@placeholder='Логин']
+2020-08-01 18:01:37,700 INFO [main] Element found
+2020-08-01 18:01:37,765 INFO [main] Should be By.xpath: //input[@placeholder='Пароль']
+2020-08-01 18:01:37,779 INFO [main] Element found
+2020-08-01 18:01:37,858 INFO [main] Should be By.xpath: //input[@placeholder='Логин']
+2020-08-01 18:01:37,875 INFO [main] Element found
+2020-08-01 18:01:37,947 INFO [main] Should be By.xpath: //input[@placeholder='Пароль']
+2020-08-01 18:01:37,965 INFO [main] Element found
+2020-08-01 18:01:38,020 INFO [main] Should be By.id: login-button
+2020-08-01 18:01:38,031 INFO [main] Element found
+2020-08-01 18:01:38,360 INFO [main] Should be By.xpath: //div[@class='alert alert-error']
+2020-08-01 18:01:38,373 INFO [main] Element found
+2020-08-01 18:01:38,729 INFO [main] Should be By.xpath: //input[@placeholder='Логин']
+2020-08-01 18:01:38,748 INFO [main] Element found
+2020-08-01 18:01:38,809 INFO [main] Should be By.xpath: //input[@placeholder='Пароль']
+2020-08-01 18:01:38,823 INFO [main] Element found
+2020-08-01 18:01:38,890 INFO [main] Should be By.xpath: //input[@placeholder='Логин']
+2020-08-01 18:01:38,902 INFO [main] Element found
+2020-08-01 18:01:38,969 INFO [main] Should be By.xpath: //input[@placeholder='Пароль']
+2020-08-01 18:01:38,988 INFO [main] Element found
+2020-08-01 18:01:39,063 INFO [main] Should be By.id: login-button
+2020-08-01 18:01:39,075 INFO [main] Element found
+2020-08-01 18:01:39,557 INFO [main] Should be By.xpath: //input[@id='otp-code']
+2020-08-01 18:01:39,583 INFO [main] Element found
+2020-08-01 18:05:44,496 INFO [main] Should be By.xpath: //input[@placeholder='Логин']
+2020-08-01 18:05:44,550 INFO [main] Element found
+2020-08-01 18:05:44,658 INFO [main] Should be By.xpath: //input[@placeholder='Пароль']
+2020-08-01 18:05:44,684 INFO [main] Element found
+2020-08-01 18:05:44,803 INFO [main] Should be By.xpath: //input[@placeholder='Логин']
+2020-08-01 18:05:44,818 INFO [main] Element found
+2020-08-01 18:05:44,919 INFO [main] Should be By.xpath: //input[@placeholder='Пароль']
+2020-08-01 18:05:44,929 INFO [main] Element found
+2020-08-01 18:05:45,044 INFO [main] Should be By.id: login-button
+2020-08-01 18:05:45,087 INFO [main] Element found
+2020-08-01 18:05:45,456 INFO [main] Should be By.xpath: //div[@class='alert alert-error']
+2020-08-01 18:05:45,487 INFO [main] Element found
+2020-08-01 18:06:45,347 INFO [main] Should be By.xpath: //input[@placeholder='Логин']
+2020-08-01 18:06:45,402 INFO [main] Element found
+2020-08-01 18:06:45,501 INFO [main] Should be By.xpath: //input[@placeholder='Пароль']
+2020-08-01 18:06:45,553 INFO [main] Element found
+2020-08-01 18:06:45,634 INFO [main] Should be By.xpath: //input[@placeholder='Логин']
+2020-08-01 18:06:45,671 INFO [main] Element found
+2020-08-01 18:06:45,751 INFO [main] Should be By.xpath: //input[@placeholder='Пароль']
+2020-08-01 18:06:45,788 INFO [main] Element found
+2020-08-01 18:06:45,848 INFO [main] Should be By.id: login-button
+2020-08-01 18:06:45,887 INFO [main] Element found
+2020-08-01 18:06:46,399 INFO [main] Should be By.xpath: //div[@class='alert alert-error']
+2020-08-01 18:06:46,431 INFO [main] Element found
+2020-08-01 20:20:12,221 INFO [main] Should be By.xpath: //input[@placeholder='Логин']
+2020-08-01 20:20:12,333 INFO [main] Element found
+2020-08-01 20:20:12,449 INFO [main] Should be By.xpath: //input[@placeholder='Пароль']
+2020-08-01 20:20:12,477 INFO [main] Element found
+2020-08-01 20:20:12,582 INFO [main] Should be By.xpath: //input[@placeholder='Логин']
+2020-08-01 20:20:12,610 INFO [main] Element found
+2020-08-01 20:20:12,714 INFO [main] Should be By.xpath: //input[@placeholder='Пароль']
+2020-08-01 20:20:12,734 INFO [main] Element found
+2020-08-01 20:20:12,842 INFO [main] Should be By.id: login-button
+2020-08-01 20:20:12,868 INFO [main] Element found
+2020-08-01 20:20:13,322 INFO [main] Should be By.xpath: //div[@class='alert alert-error']
+2020-08-01 20:20:13,347 INFO [main] Element found
+2020-08-01 21:35:54,375 INFO [main] Should be By.xpath: //input[@placeholder='Логин']
+2020-08-01 21:35:54,395 INFO [main] Element found
+2020-08-01 21:35:54,454 INFO [main] Should be By.xpath: //input[@placeholder='Пароль']
+2020-08-01 21:35:54,470 INFO [main] Element found
+2020-08-01 21:35:54,532 INFO [main] Should be By.xpath: //input[@placeholder='Логин']
+2020-08-01 21:35:54,545 INFO [main] Element found
+2020-08-01 21:35:54,607 INFO [main] Should be By.xpath: //input[@placeholder='Пароль']
+2020-08-01 21:35:54,620 INFO [main] Element found
+2020-08-01 21:35:54,685 INFO [main] Should be By.id: login-button
+2020-08-01 21:35:54,706 INFO [main] Element found
+2020-08-01 21:35:55,203 INFO [main] Should be By.xpath: //div[@class='alert alert-error']
+2020-08-01 21:35:55,229 INFO [main] Element found
+2020-08-01 21:35:55,614 INFO [main] Should be By.xpath: //input[@placeholder='Логин']
+2020-08-01 21:35:55,631 INFO [main] Element found
+2020-08-01 21:35:55,694 INFO [main] Should be By.xpath: //input[@placeholder='Пароль']
+2020-08-01 21:35:55,706 INFO [main] Element found
+2020-08-01 21:35:55,766 INFO [main] Should be By.xpath: //input[@placeholder='Логин']
+2020-08-01 21:35:55,779 INFO [main] Element found
+2020-08-01 21:35:55,835 INFO [main] Should be By.xpath: //input[@placeholder='Пароль']
+2020-08-01 21:35:55,850 INFO [main] Element found
+2020-08-01 21:35:55,906 INFO [main] Should be By.id: login-button
+2020-08-01 21:35:55,920 INFO [main] Element found
+2020-08-01 21:35:56,205 INFO [main] Should be By.xpath: //div[@class='alert alert-error']
+2020-08-01 21:35:56,228 INFO [main] Element found
+2020-08-01 21:35:56,579 INFO [main] Should be By.xpath: //input[@placeholder='Логин']
+2020-08-01 21:35:56,594 INFO [main] Element found
+2020-08-01 21:35:56,653 INFO [main] Should be By.xpath: //input[@placeholder='Пароль']
+2020-08-01 21:35:56,665 INFO [main] Element found
+2020-08-01 21:35:56,716 INFO [main] Should be By.xpath: //input[@placeholder='Логин']
+2020-08-01 21:35:56,729 INFO [main] Element found
+2020-08-01 21:35:56,790 INFO [main] Should be By.xpath: //input[@placeholder='Пароль']
+2020-08-01 21:35:56,803 INFO [main] Element found
+2020-08-01 21:35:56,867 INFO [main] Should be By.id: login-button
+2020-08-01 21:35:56,880 INFO [main] Element found
+2020-08-01 21:35:57,452 INFO [main] Should be By.xpath: //input[@id='otp-code']
+2020-08-01 21:35:57,482 INFO [main] Element found
+2020-08-01 22:54:58,850 INFO [main] Should be By.xpath: //input[@placeholder='Логин']
+2020-08-01 22:54:58,882 INFO [main] Element found
+2020-08-01 22:54:58,945 INFO [main] Should be By.xpath: //input[@placeholder='Пароль']
+2020-08-01 22:54:58,970 INFO [main] Element found
+2020-08-01 22:54:59,028 INFO [main] Should be By.xpath: //input[@placeholder='Логин']
+2020-08-01 22:54:59,041 INFO [main] Element found
+2020-08-01 22:54:59,100 INFO [main] Should be By.xpath: //input[@placeholder='Пароль']
+2020-08-01 22:54:59,110 INFO [main] Element found
+2020-08-01 22:54:59,167 INFO [main] Should be By.id: login-button
+2020-08-01 22:54:59,187 INFO [main] Element found
+2020-08-01 22:54:59,495 INFO [main] Should be By.xpath: //div[@class='alert alert-error']
+2020-08-01 22:54:59,514 INFO [main] Element found
+2020-08-01 22:54:59,889 INFO [main] Should be By.xpath: //input[@placeholder='Логин']
+2020-08-01 22:54:59,904 INFO [main] Element found
+2020-08-01 22:54:59,956 INFO [main] Should be By.xpath: //input[@placeholder='Пароль']
+2020-08-01 22:54:59,966 INFO [main] Element found
+2020-08-01 22:55:00,011 INFO [main] Should be By.xpath: //input[@placeholder='Логин']
+2020-08-01 22:55:00,022 INFO [main] Element found
+2020-08-01 22:55:00,071 INFO [main] Should be By.xpath: //input[@placeholder='Пароль']
+2020-08-01 22:55:00,083 INFO [main] Element found
+2020-08-01 22:55:00,125 INFO [main] Should be By.id: login-button
+2020-08-01 22:55:00,137 INFO [main] Element found
+2020-08-01 22:55:00,399 INFO [main] Should be By.xpath: //div[@class='alert alert-error']
+2020-08-01 22:55:00,416 INFO [main] Element found
+2020-08-01 22:55:00,738 INFO [main] Should be By.xpath: //input[@placeholder='Логин']
+2020-08-01 22:55:00,754 INFO [main] Element found
+2020-08-01 22:55:00,809 INFO [main] Should be By.xpath: //input[@placeholder='Пароль']
+2020-08-01 22:55:00,819 INFO [main] Element found
+2020-08-01 22:55:00,870 INFO [main] Should be By.xpath: //input[@placeholder='Логин']
+2020-08-01 22:55:00,885 INFO [main] Element found
+2020-08-01 22:55:00,939 INFO [main] Should be By.xpath: //input[@placeholder='Пароль']
+2020-08-01 22:55:00,949 INFO [main] Element found
+2020-08-01 22:55:01,010 INFO [main] Should be By.id: login-button
+2020-08-01 22:55:01,018 INFO [main] Element found
+2020-08-01 22:55:01,449 INFO [main] Should be By.xpath: //input[@id='otp-code']
+2020-08-01 22:55:01,469 INFO [main] Element found
